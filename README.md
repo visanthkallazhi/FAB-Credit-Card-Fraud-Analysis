@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection — Comprehensive Analysis & Extended Inferences
+# FAB Credit Card Fraud Detection — Comprehensive Analysis & Extended Inferences
 
 An in-depth, beginner-friendly analysis of the **Credit Card Fraud Detection** machine learning workflow, breaking down the pipeline step-by-step, evaluating the baseline Support Vector Machine (SVM) model, and providing actionable statistical inferences to take the project further.
 
